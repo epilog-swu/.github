@@ -53,7 +53,7 @@
 </table>
 
 #### 🔗 관련 링크
-> 개발과 관련된 더 다양한 이야기를 보고싶다면 아래 링크를 확인해주세요!<br/>
+> 개발과 관련된 더 다양한 이야기를 확인해주세요!<br/>
 > <a href="https://github.com/epilog-swu/Front/wiki">Github Wiki 보러가기</a><br/>
 > <a href="https://github.com/epilog-swu/Server">Server Repository 보러가기</a><br/>
 > <a href="https://github.com/epilog-swu/Front">Android Repository 보러가기</a><br/>
