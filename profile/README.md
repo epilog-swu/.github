@@ -2,6 +2,6 @@
 <img src="https://github.com/user-attachments/assets/48bdf9fc-20c9-4e9f-a6bf-7498137fada2" width="800px" alert="logo"/>
 
 ### 관련 링크
-<a href="">Github Wiki 보러가기</a><br/>
-<a href="">Server Repository 보러가기</a><br/>
-<a href="">Android Repository 보러가기</a><br/>
+<a href="https://github.com/epilog-swu/Front/wiki">Github Wiki 보러가기</a><br/>
+<a href="https://github.com/epilog-swu/Server">Server Repository 보러가기</a><br/>
+<a href="https://github.com/epilog-swu/Front">Android Repository 보러가기</a><br/>
