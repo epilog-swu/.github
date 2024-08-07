@@ -1,5 +1,6 @@
-![제목](https://github.com/epilog-swu/.github/assets/86940801/c2f810a5-892f-405d-a90d-79d6be11de80)
-![팀원소개](https://github.com/epilog-swu/.github/assets/86940801/1622312d-41a3-48fb-9fcb-b3a94a556956)
-![서비스소개1](https://github.com/epilog-swu/.github/assets/86940801/fbc2c45b-64ee-4615-91b1-a1252f14a428)
-![10](https://github.com/epilog-swu/.github/assets/86940801/857aec78-bb6b-454d-b39b-5d6d35cf3bd8)
+# 스마트워치를 활용한 낙상감지 및 혈당관리 서비스 Dialog
+<img src="https://github.com/user-attachments/assets/48bdf9fc-20c9-4e9f-a6bf-7498137fada2" width="800px" alert="logo"/>
 
+<a href="">Github Wiki 보러가기</a><br/>
+<a href="">Server Repository 보러가기</a><br/>
+<a href="">Android Repository 보러가기</a><br/>
