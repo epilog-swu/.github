@@ -82,3 +82,4 @@
 > <a href="https://github.com/epilog-swu/Front/wiki">Github Wiki 보러가기</a><br/>
 > <a href="https://github.com/epilog-swu/Server">Server Repository 보러가기</a><br/>
 > <a href="https://github.com/epilog-swu/Front">Android Repository 보러가기</a><br/>
+> <a href="https://github.com/epilog-swu/AI">AI Repository 보러가기</a>
