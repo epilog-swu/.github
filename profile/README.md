@@ -1,6 +1,7 @@
 ## 스마트워치를 활용한 AI 낙상 감지 및 혈당 관리 서비스 Dialog
 
-<img src="https://github.com/user-attachments/assets/48bdf9fc-20c9-4e9f-a6bf-7498137fada2" width="800px" alert="logo"/>
+<img src="https://github.com/user-attachments/assets/58c6b8ef-c166-45f4-8403-4bb12c023c6f" width="800px" alert="logo"/>
+
 
 ## Dialog란?
 
