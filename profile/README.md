@@ -1,4 +1,4 @@
-## 스마트워치를 활용한 AI 낙상 감지 및 혈당 관리 서비스 Dialog
+## 스마트워치와 AI를 활용한 낙상 감지 및 혈당 관리 서비스 Dialog
 
 <img src="https://github.com/user-attachments/assets/58c6b8ef-c166-45f4-8403-4bb12c023c6f" width="800px" alert="logo"/>
 
