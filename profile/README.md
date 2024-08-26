@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/58c6b8ef-c166-45f4-8403-4bb12c023c6f" width="800px" alert="logo"/>
 
-## ⚜️ Dialog란?
+## Dialog란?
 
 **Dia**betes + **Log** = **Dialog** <br/>
 당뇨병 환자의 건강을 기록하고, 환자와 보호자 사이의 대화(dialog)를 돕는다는 의미를 담아 지어진 이름입니다. 
