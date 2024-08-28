@@ -59,7 +59,7 @@
 
 
 ## 시연 영상
-> 썸네일을 클릭하면 유튜브로 이동합니다
+> 썸네일을 클릭하면 유튜브로 이동합니다 <br/>
 [![Video Label](http://img.youtube.com/vi/J9SKOEfuQQo/0.jpg)](https://youtu.be/J9SKOEfuQQo)
 
 
